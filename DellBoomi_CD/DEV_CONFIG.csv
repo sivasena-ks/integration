@@ -1,0 +1,9 @@
+$CONFIG_Docker_Con_Dir=/var/boomi/Atom_dockeratom03/my_dir
+$CONFIG_DiskCon_Dir=/var/boomi/Atom_atom_docker_jenkins_01/dev
+$CONFIG_XREF_Active_ID=1
+$CONFIG_XREF_Suspend_ID=2
+$CONFIG_XREF_Close_ID=3
+$CONFIG_XREF_Active_Value=ACTIVE
+$CONFIG_XREF_Suspend_Value=SUSPENDED
+$CONFIG_XREF_Close_Value=CLOSED
+$CONFIG_PP_Customer_Filename=dev_customer.csv

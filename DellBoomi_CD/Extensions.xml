@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bns:EnvironmentExtensions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bns="http://api.platform.boomi.com/" environmentId="fd5006f4-5023-45b7-bba6-e4705fa70d3c" extensionGroupId="" id="fd5006f4-5023-45b7-bba6-e4705fa70d3c">
+    <bns:connections>
+        <bns:connection id="92eb3643-34ed-41eb-b0ac-8b7f8a6e6df5" name="Docker_Con">
+            <bns:field id="directory" value="$Docker_Con_Dir" encryptedValueSet="false" usesEncryption="false" componentOverride="false"/>
+        </bns:connection>
+    </bns:connections>
+</bns:EnvironmentExtensions>
